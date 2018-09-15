@@ -14,11 +14,11 @@
 
 ## 使用说明：
 需要先安装依赖:
-```javascript
+```
 npm install cheerio bluebird
 ```
 
 再在Git Bash或其他命令行工具使用node运行：
-```javascript
+```
 node doubanHot250.js
 ```
