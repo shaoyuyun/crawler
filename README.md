@@ -22,3 +22,6 @@ npm install cheerio bluebird
 ```
 node doubanHot250.js
 ```
+## 参考：
+[慕课网Node.js教程一](https://www.imooc.com/learn/348)
+[慕课网Node.js教程二](https://www.imooc.com/learn/637)
